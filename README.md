@@ -2,6 +2,13 @@
 
 This project is a comprehensive web scraping tool designed to extract financial data from [Screener.in](https://www.screener.in/). It uses Selenium (specifically `undetected-chromedriver`) to navigate the site and handle authentication, and exposes the scraped data through a RESTful API built with FastAPI.
 
+
+
+
+https://github.com/user-attachments/assets/55fb1796-0cde-40a0-9c1b-4e0752f2ef8e
+
+
+
 ## Features
 
 - **Automated Login**: Handles user authentication securely.
